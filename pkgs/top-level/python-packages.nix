@@ -4529,6 +4529,8 @@ self: super: with self; {
 
   evosax = callPackage ../development/python-modules/evosax { };
 
+  evox = callPackage ../development/python-modules/evox { };
+
   evtx = callPackage ../development/python-modules/evtx { };
 
   ewmh = callPackage ../development/python-modules/ewmh { };
